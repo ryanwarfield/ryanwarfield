@@ -12,6 +12,8 @@
 
 ## Big Goals
 I have a few far-reaching goals that I'd like to achieve some day with projects I'm planning to take on to prepare myself:
+- [ ] Robot arm (in progress)
+- [ ] Rover with speaker, camera and microphone (in progress)
 - [ ] A GPU-accelerated video editor capable of running natively or on the web
   - [x] A GPU-powered video player
   - [ ] A GPU-compute static CLI video editor
